@@ -1,21 +1,21 @@
 {
   "categories": {
     "social": {
-      "name": "Social Media",
+      "name": "Social Media 2",
       "links": {
-        "sfba": "https://sfba.social",
+        "sfba2": "https://sfba.social",
         "iocx": "https://ioc.exchange"
       }
     },
     "dev": {
-      "name": "Development",
+      "name": "Development 2",
       "links": {
         "gh": "https://github.com",
         "gl": "https://gitlab.com"
       }
     },
     "tools": {
-      "name": "Tools",
+      "name": "Tools 2",
       "links": {
         "yt": "https://youtube.com",
         "maps": "https://maps.google.com"
